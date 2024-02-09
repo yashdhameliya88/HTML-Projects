@@ -310,3 +310,17 @@ body {
     transform: translateX(15vw) rotate(5deg);
   }
 }
+
+.myFooter{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center; 
+    width: 100%;
+    background-color: #00000086;
+}
+.myFooter a{
+    color: white;
+    text-decoration: none;
+}

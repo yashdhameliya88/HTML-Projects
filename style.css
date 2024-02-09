@@ -319,9 +319,24 @@ div.discontinued:before {
 }
 .main a {
   color: white;
-  text-shadow: 0 2px 2px #512014;
+  text-shadow: 0 2px 2px 512014#;
 }
 .main a:hover {
   color: rgb(230, 47, 47);
   text-shadow: 0 2px 2px #ffffff;
 }
+
+.myFooter{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center; 
+    width: 100%;
+    background-color: #00000086;
+}
+.myFooter a{
+    color: white;
+    text-decoration: none;
+}
+
